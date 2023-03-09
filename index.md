@@ -1,5 +1,7 @@
-# Quinn Wong
- 
+---
+title: Quinn Wong
+---
+
 122 Hiddleston Crescent R2P 0S1Winnipeg, Manitoba
 
 Cell: 204-799-3919 
