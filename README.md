@@ -4,7 +4,7 @@
 
 The purpose of this README is to help you set up a static site which then you can host a resume on with GitHub Pages.
 
-![Gif of resume](http://g.recordit.co/546TrWXRWX.gif)
+![Gif of resume](https://github.com/WongQ99/WongQ99.github.io/blob/main/Resume%20Gif.gif)
 
 ## Prerequisites
 
